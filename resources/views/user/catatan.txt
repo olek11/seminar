@@ -1,0 +1,1 @@
+form sudah bisa submit, belum muncul modal yang ketika sucses, dan pemberitahuan errornya belum sesuai, waktu bentrok belum dicoba
