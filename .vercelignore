@@ -5,3 +5,6 @@
 /tests
 /storage
 composer.lock
+/public/landing/
+/public/landing/assets/
+/public/landing/assets/vendor/
