@@ -7,12 +7,12 @@
     },
     "routes": [
         {
-            "src": "/img/(.*)",
-            "dest": "/public/img/"
+            "src": "/build/(.*)",
+            "dest": "/public/build/$1"
         },
         {
             "src": "/(.*)",
-            "dest": "/api/index.php"
+            "dest": "/public/index.php"
         }
     ],
     "env": {
