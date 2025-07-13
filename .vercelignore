@@ -1,7 +1,7 @@
-/vendor
-/.env
-/.vercel
-/node_modules
-/tests
-/storage
+vendor
+.env
+.vercel
+node_modules
+tests
+storage
 composer.lock
