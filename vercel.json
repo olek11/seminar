@@ -11,6 +11,10 @@
             "dest": "/public/build/$1"
         },
         {
+            "src": "/landing/(.*)",
+            "dest": "/public/landing/$1"
+        },
+        {
             "src": "/(.*)",
             "dest": "/public/index.php"
         }
